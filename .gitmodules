@@ -1,3 +1,6 @@
 [submodule "obstacle_detection"]
 	path = obstacle_detection
 	url = https://github.com/iscumd/obstacle_detection
+[submodule "zed_snow_detection"]
+	path = zed_snow_detection
+	url = https://github.com/iscumd/zed_snow_detection
