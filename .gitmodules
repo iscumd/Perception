@@ -1,3 +1,6 @@
 [submodule "zed_snow_detection"]
 	path = zed_snow_detection
 	url = https://github.com/iscumd/zed_snow_detection
+[submodule "ros_lidar_obstacle_detection"]
+	path = ros_lidar_obstacle_detection
+	url = https://github.com/iscumd/ros_lidar_obstacle_detection
