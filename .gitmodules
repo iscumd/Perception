@@ -1,0 +1,3 @@
+[submodule "perception/obstacle_detection"]
+	path = obstacle_detection
+	url = https://github.com/iscumd/obstacle_detection
